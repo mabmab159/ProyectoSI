@@ -1,0 +1,16 @@
+
+label {
+    margin: 10px;
+}
+
+li {
+    list-style: none;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+}
